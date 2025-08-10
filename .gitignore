@@ -6,3 +6,6 @@
 !requirements*
 !Dockerfile*
 !*.sh
+!*.yaml
+!*.yml
+!*/
